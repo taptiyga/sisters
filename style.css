@@ -11,7 +11,7 @@ body {
     width: 35px;
     height: 35px;
     position: absolute;
-    background: url('img/petal.png');
+    /* background: url('img/petal.png'); */
     background-size: 100% 100%;
 }
 
@@ -49,7 +49,7 @@ html, body {
 .title {
     margin-bottom: 10px;
 
-    background-image: linear-gradient(110deg, #ff6945 0%, #8047ca 100%);
+    background-image: linear-gradient(110deg, #45ff45 0%, #8047ca 100%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 
@@ -73,7 +73,7 @@ html, body {
 }
 
 .author {
-    background-image: linear-gradient(110deg, #ff6945 0%, #8047ca 100%);
+    background-image: linear-gradient(110deg, #45ff45 0%, #8047ca 100%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 
